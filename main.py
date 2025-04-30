@@ -13,7 +13,7 @@ def main():
     remote_directory = "conf.d/"  
     current_backup = r"C:\STORAGE\PYTHON\BackupConfigNginx_1.0\backup"
     backup_old = r"C:\STORAGE\PYTHON\BackupConfigNginx_1.0\backup_old/"
-    hostname = "ahmad.ftc.ru"  
+    hostname = "example.com"  
     port = 22                       
     username = "nginx"      
     key_file = r"C:\STORAGE\Key\key" 
